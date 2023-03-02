@@ -1,8 +1,8 @@
 # Web Development Project 1 - *Community Board*
 
-Submitted by: **Your Name Here**
+Submitted by: **Merhawit Temeshen**
 
-This web app: **insert description**
+This web app: **This app represents community board of shops**
 
 Time spent: **3** hours spent in total
 
