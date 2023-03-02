@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Community Board*
 
-Submitted by: **Merhawit Temeshen**
+Submitted by: **Merhawit Temesgen**
 
 This web app: **This app represents community board of shops**
 
