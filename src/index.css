@@ -1,0 +1,120 @@
+:root {
+  font-family: Helvetica,sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  background-color: #a9e2e4;
+  color-scheme: light dark;
+  color: #fff;
+  background-size: cover auto;
+  background-blend-mode: multiply;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-align: center;
+}
+
+
+
+.App {
+  margin-left: 60px;
+  margin-right: 60px;
+  color: #000;
+}
+
+td {
+  padding: 5px;
+  height: 90px;
+  background-color: #bae2eb;
+}
+
+.blue {
+  background:rgb(190, 219, 229);
+}
+
+.Card {
+  color: #000;
+  background-color: #fff;
+  padding-bottom: 20px;
+  box-shadow: 0 15px 25px #817c7c33;
+  font-size: medium;
+  border-radius: 14px;
+  backdrop-filter: blur(2px);
+  text-align: center;
+  margin-bottom: 30px;
+  height: 450px;
+}
+
+.img {
+  width: 900px;
+  height: 169 px;
+}
+
+h1 {
+  font-size: 75px;
+  line-height: 1.1;
+  color: #fff;
+  font-size: 80px;
+  text-shadow: rgb(238, 210, 210) 1px 0 10px;
+  padding-bottom: 18px;
+  margin-left: 50px;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 10px;  
+  display : block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;;
+}
+
+h4 {
+  margin-top: 0;
+  font-size: 18px;
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Truck {
+  width: 300px;
+  height: 300 px;
+  object-fit: cover;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #cc0606;
+  cursor: pointer;
+  transition: border-color .25s;
+}
+
+
+
